@@ -31,17 +31,17 @@ BurnTrack is a mobile fitness app that allows users to estimate how many calorie
 ### 1. User Stories
 
 #### Required Must-have Stories
-- [ ]User can input an activity and duration to get calories burned
-- [ ]User sees results on the same screen or in a result view
-- [ ]User sees error messages for invalid inputs
-- [ ]User can view a list of past searches
-- [ ]App shows a loading indicator while fetching
+- [ ] User can input an activity and duration to get calories burned
+- [ ] User sees results on the same screen or in a result view
+- [ ] User sees error messages for invalid inputs
+- [ ] User can view a list of past searches
+- [ ] App shows a loading indicator while fetching
 
 #### Optional Nice-to-have Stories
-- [ ]User can save favorite activities
-- [ ]User sees graphs of weekly burned calories
-- [ ]User can log in/out and track history per account
-- [ ]User gets motivational tips based on activity
+- [ ] User can save favorite activities
+- [ ] User sees graphs of weekly burned calories
+- [ ] User can log in/out and track history per account
+- [ ] User gets motivational tips based on activity
 
 ---
 
@@ -88,6 +88,8 @@ BurnTrack is a mobile fitness app that allows users to estimate how many calorie
 <img width="375" height="886" alt="body weight tracking" src="https://github.com/user-attachments/assets/6dae0953-f628-44c6-93fa-7a81637801a6" />
 
 <img width="375" height="886" alt="Calorie tracking" src="https://github.com/user-attachments/assets/28e01908-10a7-4627-a1c5-1f395164e1a4" />
+
+<img width="375" height="813" alt="workout complete pop up" src="https://github.com/user-attachments/assets/faa90db3-eb65-49fd-a603-75217886531a" />
 
 ---
 
