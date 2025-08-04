@@ -96,7 +96,6 @@ BurnTrack is a mobile fitness app that allows users to estimate how many calorie
 ## [BONUS] Digital Wireframes & Mockups
 
 *Add Figma or digital mockups if you’ve made them*
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/yZtxtZQXXU3mHS8vaY2SgR/Fitness---Workout-App-UI-Kit-%7C-3D-Effect--Community-?node-id=234-2801&embed-host=share" allowfullscreen></iframe>
 
 ---
 
