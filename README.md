@@ -79,20 +79,29 @@ BurnTrack is a mobile fitness app that allows users to estimate how many calorie
 
 ## Wireframes
 
-<img src="https://www.figma.com/proto/6cKYa4kWwP9INo6JMtVV6k/Untitled?node-id=1-36&t=CgGXGQ0azuZXDEll-1" width=600>
+<img width="375" height="812" alt="splash" src="https://github.com/user-attachments/assets/7073f6fd-e498-4c63-8f67-299dad3d3ced" />
 
+<img width="375" height="812" alt="login" src="https://github.com/user-attachments/assets/34fc1f60-cdb1-4d36-a6e2-11e21056d48e" />
+
+<img width="375" height="812" alt="Homepage" src="https://github.com/user-attachments/assets/19d48bbd-efbd-4657-8604-b7fe3cef5b0e" />
+
+<img width="375" height="886" alt="body weight tracking" src="https://github.com/user-attachments/assets/6dae0953-f628-44c6-93fa-7a81637801a6" />
+
+<img width="375" height="886" alt="Calorie tracking" src="https://github.com/user-attachments/assets/28e01908-10a7-4627-a1c5-1f395164e1a4" />
 
 ---
 
 ## [BONUS] Digital Wireframes & Mockups
 
 *Add Figma or digital mockups if you’ve made them*
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/yZtxtZQXXU3mHS8vaY2SgR/Fitness---Workout-App-UI-Kit-%7C-3D-Effect--Community-?node-id=234-2801&embed-host=share" allowfullscreen></iframe>
 
 ---
 
 ## [BONUS] Interactive Prototype
 
 *Link to Figma prototype here if you’ve created one*
+https://www.figma.com/design/yZtxtZQXXU3mHS8vaY2SgR/Fitness---Workout-App-UI-Kit-%7C-3D-Effect--Community-?node-id=234-2801&t=sBSssHi2oNmKKp0j-0
 
 ---
 
