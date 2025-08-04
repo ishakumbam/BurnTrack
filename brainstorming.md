@@ -11,7 +11,7 @@
 
 ## Step 2: Top Two Ideas + Evaluation
 
-### 🔥 1. BurnTrack
+### 1. BurnTrack
 
 | Attribute | Evaluation |
 |----------|-------------|
@@ -21,7 +21,7 @@
 | **Habit** | Moderate habit-forming potential: can be used daily after exercise. |
 | **Scope** | Manageable – MVP could be 2-3 screens, using one external API. |
 
-### 🌿 2. GreenThumb
+### 2. GreenThumb
 
 | Attribute | Evaluation |
 |----------|-------------|
@@ -33,6 +33,6 @@
 
 ## Step 3: Final Decision
 
-**Final App Idea:** ✅ **BurnTrack**
+**Final App Idea:** **BurnTrack**
 
 Reason: Clear value, strong market, uses a public API, great for fitness-focused users, and fits well in the project scope and timeline.
