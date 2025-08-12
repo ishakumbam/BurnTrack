@@ -1,0 +1,577 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		540F55D92E4BDDA1002006BE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 540F55BA2E4BDDA0002006BE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 540F55C12E4BDDA0002006BE;
+			remoteInfo = BurnTrack;
+		};
+		540F55E32E4BDDA1002006BE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 540F55BA2E4BDDA0002006BE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 540F55C12E4BDDA0002006BE;
+			remoteInfo = BurnTrack;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		540F55C22E4BDDA0002006BE /* BurnTrack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BurnTrack.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		540F55D82E4BDDA1002006BE /* BurnTrackTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BurnTrackTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		540F55E22E4BDDA1002006BE /* BurnTrackUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BurnTrackUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		540F55EA2E4BDDA1002006BE /* Exceptions for "BurnTrack" folder in "BurnTrack" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 540F55C12E4BDDA0002006BE /* BurnTrack */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		540F55F82E4BDDBA002006BE /* Exceptions for "BurnTrack" folder in "Copy Bundle Resources" phase from "BurnTrack" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 540F55C02E4BDDA0002006BE /* Resources */;
+			membershipExceptions = (
+				BurnTrackApp.swift,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		540F55C42E4BDDA0002006BE /* BurnTrack */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				540F55EA2E4BDDA1002006BE /* Exceptions for "BurnTrack" folder in "BurnTrack" target */,
+				540F55F82E4BDDBA002006BE /* Exceptions for "BurnTrack" folder in "Copy Bundle Resources" phase from "BurnTrack" target */,
+			);
+			path = BurnTrack;
+			sourceTree = "<group>";
+		};
+		540F55DB2E4BDDA1002006BE /* BurnTrackTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = BurnTrackTests;
+			sourceTree = "<group>";
+		};
+		540F55E52E4BDDA1002006BE /* BurnTrackUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = BurnTrackUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		540F55BF2E4BDDA0002006BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		540F55D52E4BDDA1002006BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		540F55DF2E4BDDA1002006BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		540F55B92E4BDDA0002006BE = {
+			isa = PBXGroup;
+			children = (
+				540F55C42E4BDDA0002006BE /* BurnTrack */,
+				540F55DB2E4BDDA1002006BE /* BurnTrackTests */,
+				540F55E52E4BDDA1002006BE /* BurnTrackUITests */,
+				540F55C32E4BDDA0002006BE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		540F55C32E4BDDA0002006BE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				540F55C22E4BDDA0002006BE /* BurnTrack.app */,
+				540F55D82E4BDDA1002006BE /* BurnTrackTests.xctest */,
+				540F55E22E4BDDA1002006BE /* BurnTrackUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		540F55C12E4BDDA0002006BE /* BurnTrack */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 540F55EB2E4BDDA1002006BE /* Build configuration list for PBXNativeTarget "BurnTrack" */;
+			buildPhases = (
+				540F55BE2E4BDDA0002006BE /* Sources */,
+				540F55BF2E4BDDA0002006BE /* Frameworks */,
+				540F55C02E4BDDA0002006BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				540F55C42E4BDDA0002006BE /* BurnTrack */,
+			);
+			name = BurnTrack;
+			packageProductDependencies = (
+			);
+			productName = BurnTrack;
+			productReference = 540F55C22E4BDDA0002006BE /* BurnTrack.app */;
+			productType = "com.apple.product-type.application";
+		};
+		540F55D72E4BDDA1002006BE /* BurnTrackTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 540F55F02E4BDDA1002006BE /* Build configuration list for PBXNativeTarget "BurnTrackTests" */;
+			buildPhases = (
+				540F55D42E4BDDA1002006BE /* Sources */,
+				540F55D52E4BDDA1002006BE /* Frameworks */,
+				540F55D62E4BDDA1002006BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				540F55DA2E4BDDA1002006BE /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				540F55DB2E4BDDA1002006BE /* BurnTrackTests */,
+			);
+			name = BurnTrackTests;
+			packageProductDependencies = (
+			);
+			productName = BurnTrackTests;
+			productReference = 540F55D82E4BDDA1002006BE /* BurnTrackTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		540F55E12E4BDDA1002006BE /* BurnTrackUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 540F55F32E4BDDA1002006BE /* Build configuration list for PBXNativeTarget "BurnTrackUITests" */;
+			buildPhases = (
+				540F55DE2E4BDDA1002006BE /* Sources */,
+				540F55DF2E4BDDA1002006BE /* Frameworks */,
+				540F55E02E4BDDA1002006BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				540F55E42E4BDDA1002006BE /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				540F55E52E4BDDA1002006BE /* BurnTrackUITests */,
+			);
+			name = BurnTrackUITests;
+			packageProductDependencies = (
+			);
+			productName = BurnTrackUITests;
+			productReference = 540F55E22E4BDDA1002006BE /* BurnTrackUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		540F55BA2E4BDDA0002006BE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					540F55C12E4BDDA0002006BE = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					540F55D72E4BDDA1002006BE = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 540F55C12E4BDDA0002006BE;
+					};
+					540F55E12E4BDDA1002006BE = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 540F55C12E4BDDA0002006BE;
+					};
+				};
+			};
+			buildConfigurationList = 540F55BD2E4BDDA0002006BE /* Build configuration list for PBXProject "BurnTrack" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 540F55B92E4BDDA0002006BE;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 540F55C32E4BDDA0002006BE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				540F55C12E4BDDA0002006BE /* BurnTrack */,
+				540F55D72E4BDDA1002006BE /* BurnTrackTests */,
+				540F55E12E4BDDA1002006BE /* BurnTrackUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		540F55C02E4BDDA0002006BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		540F55D62E4BDDA1002006BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		540F55E02E4BDDA1002006BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		540F55BE2E4BDDA0002006BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		540F55D42E4BDDA1002006BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		540F55DE2E4BDDA1002006BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		540F55DA2E4BDDA1002006BE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 540F55C12E4BDDA0002006BE /* BurnTrack */;
+			targetProxy = 540F55D92E4BDDA1002006BE /* PBXContainerItemProxy */;
+		};
+		540F55E42E4BDDA1002006BE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 540F55C12E4BDDA0002006BE /* BurnTrack */;
+			targetProxy = 540F55E32E4BDDA1002006BE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		540F55EC2E4BDDA1002006BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BurnTrack/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IshaKumbam.BurnTrack;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		540F55ED2E4BDDA1002006BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BurnTrack/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IshaKumbam.BurnTrack;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		540F55EE2E4BDDA1002006BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		540F55EF2E4BDDA1002006BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		540F55F12E4BDDA1002006BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IshaKumbam.BurnTrackTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BurnTrack.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BurnTrack";
+			};
+			name = Debug;
+		};
+		540F55F22E4BDDA1002006BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IshaKumbam.BurnTrackTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BurnTrack.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BurnTrack";
+			};
+			name = Release;
+		};
+		540F55F42E4BDDA1002006BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IshaKumbam.BurnTrackUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BurnTrack;
+			};
+			name = Debug;
+		};
+		540F55F52E4BDDA1002006BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IshaKumbam.BurnTrackUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BurnTrack;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		540F55BD2E4BDDA0002006BE /* Build configuration list for PBXProject "BurnTrack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				540F55EE2E4BDDA1002006BE /* Debug */,
+				540F55EF2E4BDDA1002006BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		540F55EB2E4BDDA1002006BE /* Build configuration list for PBXNativeTarget "BurnTrack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				540F55EC2E4BDDA1002006BE /* Debug */,
+				540F55ED2E4BDDA1002006BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		540F55F02E4BDDA1002006BE /* Build configuration list for PBXNativeTarget "BurnTrackTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				540F55F12E4BDDA1002006BE /* Debug */,
+				540F55F22E4BDDA1002006BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		540F55F32E4BDDA1002006BE /* Build configuration list for PBXNativeTarget "BurnTrackUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				540F55F42E4BDDA1002006BE /* Debug */,
+				540F55F52E4BDDA1002006BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 540F55BA2E4BDDA0002006BE /* Project object */;
+}
