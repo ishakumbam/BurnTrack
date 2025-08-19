@@ -31,17 +31,16 @@ BurnTrack is a mobile fitness app that allows users to estimate how many calorie
 ### 1. User Stories
 
 #### Required Must-have Stories
-- [ ] User can input an activity and duration to get calories burned
-- [ ] User sees results on the same screen or in a result view
-- [ ] User sees error messages for invalid inputs
-- [ ] User can view a list of past searches
-- [ ] App shows a loading indicator while fetching
+- [x] User can input an activity and duration to get calories burned
+- [x] User sees results on the same screen or in a result view
+- [x] User sees error messages for invalid inputs
+- [x] User can view a list of past searches
+- [x] App shows a loading indicator while fetching
 
 #### Optional Nice-to-have Stories
-- [ ] User can save favorite activities
-- [ ] User sees graphs of weekly burned calories
-- [ ] User can log in/out and track history per account
-- [ ] User gets motivational tips based on activity
+- [x] User can save favorite activities
+- [x] User sees graphs of weekly burned calories
+- [x] User can log in/out and track history per account
 
 ---
 
